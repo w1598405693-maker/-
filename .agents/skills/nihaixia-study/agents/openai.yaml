@@ -1,0 +1,6 @@
+interface:
+  display_name: "倪海厦研习"
+  short_description: "仅在独立研习项目中检索倪海厦公开资料、核对出处并解释课程概念"
+  default_prompt: "请使用 $nihaixia-study 查询相关课程资料，区分原话、整理与推论，并附可核对出处。"
+policy:
+  allow_implicit_invocation: false
